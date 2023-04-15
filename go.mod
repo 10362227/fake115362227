@@ -1,4 +1,4 @@
-module github.com/362227/fake115uploader
+module github.com/10362227/fake115uploader
 
 go 1.18
 
